@@ -1,5 +1,5 @@
 {
-    "name": "leandrogehlen/yii2-querybuilder",
+    "name": "mazpaijo/yii2-querybuilder",
     "description": "Extension for Yii2 Framework to work with jQuery QueryBuilder",
     "keywords": ["yii2", "dynamic", "query", "builder", "querybuilder", "interface"],
     "type": "yii2-extension",
@@ -25,6 +25,6 @@
         "phpunit/phpunit": "3.7.*"
     },
     "autoload": {
-        "psr-4": { "leandrogehlen\\querybuilder\\": "" }
+        "psr-4": { "mazpaijo\\querybuilder\\": "" }
     }
 }
