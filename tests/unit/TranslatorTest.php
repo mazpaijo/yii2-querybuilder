@@ -3,7 +3,7 @@
 
 namespace mazpaijo\querybuilder\tests\unit;
 
-use leandrogehlen\querybuilder\Translator;
+use mazpaijo\querybuilder\Translator;
 
 class TranslatorTest extends TestCase
 {
