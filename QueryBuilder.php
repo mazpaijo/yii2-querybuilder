@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace mazpaijo\querybuilder;
 
 use Yii;
 use yii\base\InvalidConfigException;

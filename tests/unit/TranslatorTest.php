@@ -1,7 +1,7 @@
 <?php
 
 
-namespace leandrogehlen\querybuilder\tests\unit;
+namespace mazpaijo\querybuilder\tests\unit;
 
 use leandrogehlen\querybuilder\Translator;
 
